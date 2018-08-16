@@ -75,3 +75,4 @@ python3 manage.py runserver
 ```
 Now open localhost:8000 in the browser
 Send PRs and issues to https://github.com/IEEEKeralaSection/rescuekerala/
+Recreate your issues pls
