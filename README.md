@@ -1,8 +1,4 @@
-# rescuekerala
-Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
 
-We're so glad to see the PRs, will merge after releasing critical features
-=======
 # Kerala Rescue
 
 Website for coordinating rehabilitation of people affected in the 2018 Kerala Floods
@@ -78,3 +74,4 @@ Run the server
 python3 manage.py runserver
 ```
 Now open localhost:8000 in the browser
+Send PRs and issues to https://github.com/IEEEKeralaSection/rescuekerala/
